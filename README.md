@@ -1,5 +1,9 @@
 # Zambian Names
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+[![python3](https://img.shields.io/badge/python-3.6%20%7C%203.7-brightgreen.svg)](https://python3statement.org/#sections50-why) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![dependabot](https://badgen.net/dependabot/engineervix/zambian-names/?icon=dependabot)](https://dependabot.com/) [![Requirements Status](https://requires.io/github/engineervix/zambian-names/requirements.svg?branch=master)](https://requires.io/github/engineervix/zambian-names/requirements/?branch=master)
+
 ## What is this about?
 
 The purpose of this project is to have a comprehensive collection of Zambian names that can be used in a variety of contexts. The project was born as a result of seeking to contribute to [`joke2k`](https://github.com/joke2k/)'s **Faker** by creating an [`en_ZM`](https://www.localeplanet.com/icu/en-ZM/index.html) locale so that _Faker_ can be used to generate Zambian specific data, such as names, addresses, etc.
