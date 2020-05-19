@@ -1,1692 +1,1692 @@
 ## Zambian names beginning with the letter A
 
-Abale
-Afumba
-Aikelile
-Ailola
-Akabana
-Akakandelwa
-Akalutu
-Akamonwa
-Akapelwa
-Akashambatwa
-Akayomkoka
-Akende
-Akufuna
-Alibandila
-Aliomba
-Anamela
-Anyangwe
-Armengol
+- [ ] Abale
+- [ ] Afumba
+- [ ] Aikelile
+- [ ] Ailola
+- [ ] Akabana
+- [ ] Akakandelwa
+- [ ] Akalutu
+- [ ] Akamonwa
+- [ ] Akapelwa
+- [ ] Akashambatwa
+- [ ] Akayomkoka
+- [ ] Akende
+- [ ] Akufuna
+- [ ] Alibandila
+- [ ] Aliomba
+- [ ] Anamela
+- [ ] Anyangwe
+- [ ] Armengol
 
 ## Zambian names beginning with the letter B
 
-Baboola
-Banda
-Bandama
-Banji
-Bantanga
-Banyama
-Bawa
-Bbalang’ombe
-Bbalo
-Bbandama
-Bbautu
-Bbenkele
-Bbilila
-Bboole
-Bbuku
-Bbule
-Beele
-Beene
-Beenzu
-Boombe
-Bowa
-Bubala
-Bukali
-Bukolo
-Buleke
-Bulembe
-Buleze
-Busiku
-Buule
-Buumba
-Buuya
-Bwaanga
-Bwalya
-Bweembelo
-Bwenzu
+- [ ] Baboola
+- [ ] Banda
+- [ ] Bandama
+- [ ] Banji
+- [ ] Bantanga
+- [ ] Banyama
+- [ ] Bawa
+- [ ] Bbalang’ombe
+- [ ] Bbalo
+- [ ] Bbandama
+- [ ] Bbautu
+- [ ] Bbenkele
+- [ ] Bbilila
+- [ ] Bboole
+- [ ] Bbuku
+- [ ] Bbule
+- [ ] Beele
+- [ ] Beene
+- [ ] Beenzu
+- [ ] Boombe
+- [ ] Bowa
+- [ ] Bubala
+- [ ] Bukali
+- [ ] Bukolo
+- [ ] Buleke
+- [ ] Bulembe
+- [ ] Buleze
+- [ ] Busiku
+- [ ] Buule
+- [ ] Buumba
+- [ ] Buuya
+- [ ] Bwaanga
+- [ ] Bwalya
+- [ ] Bweembelo
+- [ ] Bwenzu
 
 ## Zambian names beginning with the letter C
 
-Chabala
-Chabalengula
-Chabatama
-Chabuka
-Chabwela
-Chafulumiladzuwa
-Chafwakale
-Chakale
-Chakanika
-Chakhanza
-Chakomboka
-Chakulimba
-Chakwe
-Chalemba
-Chalila
-Chalwe
-Chama
-Chamanga
-Chamba
-Chamuka
-Chanda
-Chandala
-Chando
-Changufu
-Changula
-Chansa
-Chapema
-Chapenuka
-Chasi
-Chatsika
-Chavula
-Chawinga
-Chege
-Chela
-Chelelwa
-Chella
-Chellah
-Chelo
-Chembe
-Chewe
-Cheyeka
-Chibale
-Chibamba
-Chibambo
-Chibangu
-Chibawe
-Chibesa
-Chibesakunda
-Chibile
-Chibilika
-Chibiliti
-Chibiya
-Chibonta
-Chiboola
-Chibulu
-Chibuluma
-Chibuya
-Chibwe
-Chicheba
-Chicheleko
-Chidakwa
-Chidongo
-Chidothi
-Chidumayo
-Chifuwe
-Chifwepa
-Chigamba
-Chigunta
-Chihana
-Chijikwa
-Chikadya
-Chikalanga
-Chikalipo
-Chikanda
-Chikandi
-Chikatula
-Chikondi
-Chikonkota
-Chikosola
-Chikoti
-Chikoto
-Chikunda
-Chikuni
-Chikusu
-Chikwakwa
-Chikwamo
-Chilala
-Chilambwe
-Chilekwa
-Chilemba
-Chilembwe
-Chileshe
-Chileya
-Chilipamushi
-Chilomo
-Chiluba
-Chilufya
-Chilumba
-Chilundika
-Chilunji – (Rock center of family)
-Chilwalo
-Chilyobwe
-Chimana
-Chimanga
-Chimba
-Chimbole
-Chimera
-Chimfwembe
-Chimoba
-Chimponda
-Chimuka
-Chinangwa
-Chindalo
-Chingaila
-Chinjila
-Chinkuli
-Chinkunsu
-Chintu
-Chinungi
-Chinyama
-Chiona
-Chipalo
-Chipampe
-Chipasha
-Chipelembe
-Chipeleme
-Chipepo
-Chipeta
-Chiphwanya
-Chipili
-Chipimo
-Chipo
-Chipofya
-Chipungu
-Chipunza
-Chiputa
-Chirambo
-Chirwa
-Chisala
-Chisale
-Chisanga
-Chisela
-Chisembele
-Chisembu
-Chisenga
-Chisengu
-Chisesa
-Chishala
-Chisheta
-Chishiba
-Chishimba
-Chishya
-Chisi
-Chisulo
-Chisumpa
-Chisuta
-Chita
-Chitala
-Chitalo
-Chitalu
-Chitambala
-Chitambo
-Chitembeya
-Chitila
-Chitseko
-Chitsulo
-Chitty
-Chitundu
-Chituwo
-Chitwa
-Chiumia
-Chiumya
-Chiwala
-Chiwambo
-Chiwele
-Chiyala
-Chiyangi
-Chiyombo
-Chiyota
-Chizonda
-Chizyuka
-Chobe
-Chobeka
-Chokani
-Chola
-Chomanika
-Chomba
-Chombe
-Chona
-Chondoka
-Chongo
-Chongwe
-Chonya
-Choolwe
-Choongo
-Chuba
-Chulu
-Chulumanda
-Chuma
-Chumbwe
-Chunga
-Chungu
-Chuula
-Chuumbwe
-Cisasa
+- [ ] Chabala
+- [ ] Chabalengula
+- [ ] Chabatama
+- [ ] Chabuka
+- [ ] Chabwela
+- [ ] Chafulumiladzuwa
+- [ ] Chafwakale
+- [ ] Chakale
+- [ ] Chakanika
+- [ ] Chakhanza
+- [ ] Chakomboka
+- [ ] Chakulimba
+- [ ] Chakwe
+- [ ] Chalemba
+- [ ] Chalila
+- [ ] Chalwe
+- [ ] Chama
+- [ ] Chamanga
+- [ ] Chamba
+- [ ] Chamuka
+- [ ] Chanda
+- [ ] Chandala
+- [ ] Chando
+- [ ] Changufu
+- [ ] Changula
+- [ ] Chansa
+- [ ] Chapema
+- [ ] Chapenuka
+- [ ] Chasi
+- [ ] Chatsika
+- [ ] Chavula
+- [ ] Chawinga
+- [ ] Chege
+- [ ] Chela
+- [ ] Chelelwa
+- [ ] Chella
+- [ ] Chellah
+- [ ] Chelo
+- [ ] Chembe
+- [ ] Chewe
+- [ ] Cheyeka
+- [ ] Chibale
+- [ ] Chibamba
+- [ ] Chibambo
+- [ ] Chibangu
+- [ ] Chibawe
+- [ ] Chibesa
+- [ ] Chibesakunda
+- [ ] Chibile
+- [ ] Chibilika
+- [ ] Chibiliti
+- [ ] Chibiya
+- [ ] Chibonta
+- [ ] Chiboola
+- [ ] Chibulu
+- [ ] Chibuluma
+- [ ] Chibuya
+- [ ] Chibwe
+- [ ] Chicheba
+- [ ] Chicheleko
+- [ ] Chidakwa
+- [ ] Chidongo
+- [ ] Chidothi
+- [ ] Chidumayo
+- [ ] Chifuwe
+- [ ] Chifwepa
+- [ ] Chigamba
+- [ ] Chigunta
+- [ ] Chihana
+- [ ] Chijikwa
+- [ ] Chikadya
+- [ ] Chikalanga
+- [ ] Chikalipo
+- [ ] Chikanda
+- [ ] Chikandi
+- [ ] Chikatula
+- [ ] Chikondi
+- [ ] Chikonkota
+- [ ] Chikosola
+- [ ] Chikoti
+- [ ] Chikoto
+- [ ] Chikunda
+- [ ] Chikuni
+- [ ] Chikusu
+- [ ] Chikwakwa
+- [ ] Chikwamo
+- [ ] Chilala
+- [ ] Chilambwe
+- [ ] Chilekwa
+- [ ] Chilemba
+- [ ] Chilembwe
+- [ ] Chileshe
+- [ ] Chileya
+- [ ] Chilipamushi
+- [ ] Chilomo
+- [ ] Chiluba
+- [ ] Chilufya
+- [ ] Chilumba
+- [ ] Chilundika
+- [ ] Chilunji – (Rock center of family)
+- [ ] Chilwalo
+- [ ] Chilyobwe
+- [ ] Chimana
+- [ ] Chimanga
+- [ ] Chimba
+- [ ] Chimbole
+- [ ] Chimera
+- [ ] Chimfwembe
+- [ ] Chimoba
+- [ ] Chimponda
+- [ ] Chimuka
+- [ ] Chinangwa
+- [ ] Chindalo
+- [ ] Chingaila
+- [ ] Chinjila
+- [ ] Chinkuli
+- [ ] Chinkunsu
+- [ ] Chintu
+- [ ] Chinungi
+- [ ] Chinyama
+- [ ] Chiona
+- [ ] Chipalo
+- [ ] Chipampe
+- [ ] Chipasha
+- [ ] Chipelembe
+- [ ] Chipeleme
+- [ ] Chipepo
+- [ ] Chipeta
+- [ ] Chiphwanya
+- [ ] Chipili
+- [ ] Chipimo
+- [ ] Chipo
+- [ ] Chipofya
+- [ ] Chipungu
+- [ ] Chipunza
+- [ ] Chiputa
+- [ ] Chirambo
+- [ ] Chirwa
+- [ ] Chisala
+- [ ] Chisale
+- [ ] Chisanga
+- [ ] Chisela
+- [ ] Chisembele
+- [ ] Chisembu
+- [ ] Chisenga
+- [ ] Chisengu
+- [ ] Chisesa
+- [ ] Chishala
+- [ ] Chisheta
+- [ ] Chishiba
+- [ ] Chishimba
+- [ ] Chishya
+- [ ] Chisi
+- [ ] Chisulo
+- [ ] Chisumpa
+- [ ] Chisuta
+- [ ] Chita
+- [ ] Chitala
+- [ ] Chitalo
+- [ ] Chitalu
+- [ ] Chitambala
+- [ ] Chitambo
+- [ ] Chitembeya
+- [ ] Chitila
+- [ ] Chitseko
+- [ ] Chitsulo
+- [ ] Chitty
+- [ ] Chitundu
+- [ ] Chituwo
+- [ ] Chitwa
+- [ ] Chiumia
+- [ ] Chiumya
+- [ ] Chiwala
+- [ ] Chiwambo
+- [ ] Chiwele
+- [ ] Chiyala
+- [ ] Chiyangi
+- [ ] Chiyombo
+- [ ] Chiyota
+- [ ] Chizonda
+- [ ] Chizyuka
+- [ ] Chobe
+- [ ] Chobeka
+- [ ] Chokani
+- [ ] Chola
+- [ ] Chomanika
+- [ ] Chomba
+- [ ] Chombe
+- [ ] Chona
+- [ ] Chondoka
+- [ ] Chongo
+- [ ] Chongwe
+- [ ] Chonya
+- [ ] Choolwe
+- [ ] Choongo
+- [ ] Chuba
+- [ ] Chulu
+- [ ] Chulumanda
+- [ ] Chuma
+- [ ] Chumbwe
+- [ ] Chunga
+- [ ] Chungu
+- [ ] Chuula
+- [ ] Chuumbwe
+- [ ] Cisasa
 
 ## Zambian names beginning with the letter D
 
-Daka
-Dalitso
-Dawa
-Dindi
-Dingiswayo
-Dube
-Dumba
-Dzekedzeke
-Dzonzi
+- [ ] Daka
+- [ ] Dalitso
+- [ ] Dawa
+- [ ] Dindi
+- [ ] Dingiswayo
+- [ ] Dube
+- [ ] Dumba
+- [ ] Dzekedzeke
+- [ ] Dzonzi
 
 ## Zambian names beginning with the letter E
 
-Evans
+- [ ] Evans
 
 ## Zambian names beginning with the letter F
 
-Foloko-Lamba
-Fulani
-Fulunyemba
-Fulwe-Kaonde
-Fumbelo
-Fumina
-Fundanga-Lamba
-Fungakyona-Kaonde
-Fungameli-Kaonde
-Fungamwango
-Funjika
-Fwanyanga-Mbunda
-Fulaza
+- [ ] Foloko-Lamba
+- [ ] Fulani
+- [ ] Fulunyemba
+- [ ] Fulwe-Kaonde
+- [ ] Fumbelo
+- [ ] Fumina
+- [ ] Fundanga-Lamba
+- [ ] Fungakyona-Kaonde
+- [ ] Fungameli-Kaonde
+- [ ] Fungamwango
+- [ ] Funjika
+- [ ] Fwanyanga-Mbunda
+- [ ] Fulaza
 
 ## Zambian names beginning with the letter G
 
-Gama
-Ganizani
-Goma
-Gomani
-Gombwa
-Gondo
-Gondwe
-Gonno
-Gono
-Gumbo
-Gwaba
+- [ ] Gama
+- [ ] Ganizani
+- [ ] Goma
+- [ ] Gomani
+- [ ] Gombwa
+- [ ] Gondo
+- [ ] Gondwe
+- [ ] Gonno
+- [ ] Gono
+- [ ] Gumbo
+- [ ] Gwaba
 
 ## Zambian names beginning with the letter H
 
-Haababai
-Haabatwa
-Haambokoma
-Haazele
-Haabulungu
-Haabumbu
-Haachendo
-Haandabo
-Hachilendo
-Haachimwaya
-Haachitaba
-Haachiwa
-Haafwuma
-Haakainde
-Haakasondansima
-Haakoola
-Haalwiindi
-Haamaimbo
-Haamakuni
-Haamang’onze
-Haamasowe
-Haamaundu
-Haambulo
-Haamisako
-Haamudebwe
-Haamukale
-Haamukanchali
-Haamusonde
-Haamweene
-Haamwele
-Haankondo
-Haanongo
-Haantebe
-Haantuba
-Haanyuka
-Haanzele
-Haatil
-Habanjibanji
-Habanyama
-Habasimbi
-Habasonda
-Habeenzu
-Habulembe
-Habulenzi
-Habuleza
-Habwaanga
-Habwankuta
-Hachaanga
-Hachendo
-Hachibamba
-Hachibe
-Hachigabalala
-Hachilala
-Hachimwaya
-Hachipuka
-Hachoongo
-Hachoonse
-Hachongo
-Hajamba
-Hajanika
-Hakaanda
-Hakalaki
-Hakaleke
-Hakalenga
-Hakantu
-Hakunze
-Hakwelele
-Halubobya
-Halusaka
-Halwindi
-Hamabilo
-Hamaimbo
-Hamakayi
-Hamanansa
-Hamanywa
-Hamasaka
-Hamasowe
-Hamaundu
-Hambobe
-Hambulo
-Hamooba
-Hampwaye
-Hamuchenkwa
-Hamudebwe
-Hamukang’andu
-Hamukwala
-Hamusankwa
-Hamusonde
-Hamutete
-Hamwala
-Hamweene
-Hanambe
-Hanbwato
-Handema
-Handila
-Hang’andu
-Hang’ombe
-Hanjika
-Hankambe
-Hankanga
-Hankede
-Hankende
-Hantila
-Hanyuka
-Hanzele
-Hara
-Harawa
-Hatembo
-Hatimbula
-Hati Mbula
-Hatwaambo
-Hibaanga
-Hibanji
-Hichilema
-Hichingabula
-Hichoonga
-Hikacheya
-Hikalinda
-Hikaumba
-Hikeezi
-Hiluundu
-Himabbodela
-Himasompe
-Himululi
-Himulyampondo
-Himwaze
-Himweete
-Himwiita
-Hing’ndu
-Hinguluma
-Hingwale
+- [ ] Haababai
+- [ ] Haabatwa
+- [ ] Haambokoma
+- [ ] Haazele
+- [ ] Haabulungu
+- [ ] Haabumbu
+- [ ] Haachendo
+- [ ] Haandabo
+- [ ] Hachilendo
+- [ ] Haachimwaya
+- [ ] Haachitaba
+- [ ] Haachiwa
+- [ ] Haafwuma
+- [ ] Haakainde
+- [ ] Haakasondansima
+- [ ] Haakoola
+- [ ] Haalwiindi
+- [ ] Haamaimbo
+- [ ] Haamakuni
+- [ ] Haamang’onze
+- [ ] Haamasowe
+- [ ] Haamaundu
+- [ ] Haambulo
+- [ ] Haamisako
+- [ ] Haamudebwe
+- [ ] Haamukale
+- [ ] Haamukanchali
+- [ ] Haamusonde
+- [ ] Haamweene
+- [ ] Haamwele
+- [ ] Haankondo
+- [ ] Haanongo
+- [ ] Haantebe
+- [ ] Haantuba
+- [ ] Haanyuka
+- [ ] Haanzele
+- [ ] Haatil
+- [ ] Habanjibanji
+- [ ] Habanyama
+- [ ] Habasimbi
+- [ ] Habasonda
+- [ ] Habeenzu
+- [ ] Habulembe
+- [ ] Habulenzi
+- [ ] Habuleza
+- [ ] Habwaanga
+- [ ] Habwankuta
+- [ ] Hachaanga
+- [ ] Hachendo
+- [ ] Hachibamba
+- [ ] Hachibe
+- [ ] Hachigabalala
+- [ ] Hachilala
+- [ ] Hachimwaya
+- [ ] Hachipuka
+- [ ] Hachoongo
+- [ ] Hachoonse
+- [ ] Hachongo
+- [ ] Hajamba
+- [ ] Hajanika
+- [ ] Hakaanda
+- [ ] Hakalaki
+- [ ] Hakaleke
+- [ ] Hakalenga
+- [ ] Hakantu
+- [ ] Hakunze
+- [ ] Hakwelele
+- [ ] Halubobya
+- [ ] Halusaka
+- [ ] Halwindi
+- [ ] Hamabilo
+- [ ] Hamaimbo
+- [ ] Hamakayi
+- [ ] Hamanansa
+- [ ] Hamanywa
+- [ ] Hamasaka
+- [ ] Hamasowe
+- [ ] Hamaundu
+- [ ] Hambobe
+- [ ] Hambulo
+- [ ] Hamooba
+- [ ] Hampwaye
+- [ ] Hamuchenkwa
+- [ ] Hamudebwe
+- [ ] Hamukang’andu
+- [ ] Hamukwala
+- [ ] Hamusankwa
+- [ ] Hamusonde
+- [ ] Hamutete
+- [ ] Hamwala
+- [ ] Hamweene
+- [ ] Hanambe
+- [ ] Hanbwato
+- [ ] Handema
+- [ ] Handila
+- [ ] Hang’andu
+- [ ] Hang’ombe
+- [ ] Hanjika
+- [ ] Hankambe
+- [ ] Hankanga
+- [ ] Hankede
+- [ ] Hankende
+- [ ] Hantila
+- [ ] Hanyuka
+- [ ] Hanzele
+- [ ] Hara
+- [ ] Harawa
+- [ ] Hatembo
+- [ ] Hatimbula
+- [ ] Hati Mbula
+- [ ] Hatwaambo
+- [ ] Hibaanga
+- [ ] Hibanji
+- [ ] Hichilema
+- [ ] Hichingabula
+- [ ] Hichoonga
+- [ ] Hikacheya
+- [ ] Hikalinda
+- [ ] Hikaumba
+- [ ] Hikeezi
+- [ ] Hiluundu
+- [ ] Himabbodela
+- [ ] Himasompe
+- [ ] Himululi
+- [ ] Himulyampondo
+- [ ] Himwaze
+- [ ] Himweete
+- [ ] Himwiita
+- [ ] Hing’ndu
+- [ ] Hinguluma
+- [ ] Hingwale
 
 ## Zambian names beginning with the letter I
 
-Iiiamupu
-Ilala
-Ililonga
-Ilubala
-Ilunga
-Imasiku
-Imboela
-Inkosi
-Inonge
-Inutu
-Inyama
-Ireen
-Iswamo
+- [ ] Iiiamupu
+- [ ] Ilala
+- [ ] Ililonga
+- [ ] Ilubala
+- [ ] Ilunga
+- [ ] Imasiku
+- [ ] Imboela
+- [ ] Inkosi
+- [ ] Inonge
+- [ ] Inutu
+- [ ] Inyama
+- [ ] Ireen
+- [ ] Iswamo
 
 ## Zambian names beginning with the letter J
 
-Jaani
-Jalabani
-Jalasi
-Jali
-Jamba
-Jaulani
-Jawadu
-Jere
-Jhala
-Jilombo
-Jobe
-Jolezya
-Jonga
-Jubuke
-Jule
-Juma
-Jumbe
-Jumbo
-Juulu
+- [ ] Jaani
+- [ ] Jalabani
+- [ ] Jalasi
+- [ ] Jali
+- [ ] Jamba
+- [ ] Jaulani
+- [ ] Jawadu
+- [ ] Jere
+- [ ] Jhala
+- [ ] Jilombo
+- [ ] Jobe
+- [ ] Jolezya
+- [ ] Jonga
+- [ ] Jubuke
+- [ ] Jule
+- [ ] Juma
+- [ ] Jumbe
+- [ ] Jumbo
+- [ ] Juulu
 
 ## Zambian names beginning with the letter K
 
-Kaamba
-Kaambwa
-Kaande
-Kaani
-Kabaghe
-Kabalata
-Kabali
-Kabanga
-Kabaso
-Kabemba
-Kabeta
-Kabeya
-Kabila
-Kabimba
-Kaboba
-Kabubu
-Kabuta
-Kabuya
-Kabwe
-Kabwela
-Kachaka
-Kachali
-Kachela
-Kachepa
-Kachikoti
-Kachimba
-Kadzamira
-Kadzuwa
-Kaela
-Kafimbwa
-Kafumukache
-Kafunda
-Kahenya
-Kaiche
-Kaile
-Kaima
-Kajamba
-Kajoba
-Kakana
-Kakoma
-Kakoza
-Kakuwa
-Kalabula
-Kalabulo
-Kalale
-Kalaluka
-Kalebaila
-Kalenga
-Kalengo
-Kalibanje
-Kalichini
-Kalikiti
-Kalilele
-Kalima
-Kalimukwa
-Kalinda
-Kalinga
-Kalinichenko
-Kaluba
-Kalulu
-Kalumbilo
-Kalunga
-Kalusa
-Kalusha
-Kalusopa
-Kalyalya
-Kamala
-Kamandisa
-Kamanga
-Kamba
-Kambaenda
-Kambangaji
-Kambani
-Kambela
-Kambole
-Kambwa
-Kamima
-Kaminsa
-Kampamba
-Kampo
-Kamuhuzya
-Kamungu
-Kamungwe
-Kamuwanga
-Kamwala
-Kamwambi
-Kamwana
-Kamwandi
-Kamwanga
-Kamwendo
-Kamwengo
-Kamwi
-Kande
-Kandesha
-Kangombe
-Kang’ombe
-Kangoni
-Kangwa
-Kani
-Kanja
-Kanjila
-Kankasa
-Kansuma
-Kantu
-Kantumoya
-Kanyanga
-Kanyenda
-Kanyengo
-Kanyimba
-Kaonga
-Kapalu
-Kapatamoyo
-Kapatsa
-Kapaya
-Kapenta
-Kapepe
-Kapoka
-Kapoma
-Kapooria
-Kapumpa
-Kapungwe
-Kapungwe
-Kaputungu
-Kapwepwe
-Karashani
-Kasalaba
-Kasama
-Kasambala
-Kasamu
-Kasanka
-Kasankha
-Kasapo
-Kasase
-Kaseba
-Kasebo
-Kaseka
-Kashimoto
-Kashinosha
-Kashoki
-Kashoonto
-Kasobe
-Kasoko
-Kasoma
-Kasonde
-Kasonka
-Kasumpa
-Kasupa
-Kasweka
-Kaswende
-Katambala
-Katanga
-Katantamalundu
-Katebe
-Katembula
-Katilungu
-Katoka
-Katooka
-Katongo
-Katukula
-Katumba
-Katumwa
-Katundi
-Katundu
-Katusha
-Kaulu
-Kaumba
-Kaunda
-Kauseni
-Kavindele
-Kavuta
-Kawalika
-Kayama
-Kayawe
-Kayesa
-Kayira
-Kayumbwa
-Kayuni
-Kazemba
-Kazembe
-Khondowe
-Khumbo
-Kitakwa
-Kolala
-Komakoma
-Komani
-Kombe
-Kondowe
-Kondwani
-Konga
-Koni
-Konkola
-Konkolo
-Kopakopa
-Kulusika
-Kumwenda
-Kunda
-Kunkhuli
-Kuntashula
-Kuntempa
-Kuntepa
-Kunyanda
-Kupaza
-Kutumba
-Kuyenda
-Kwalira
+- [ ] Kaamba
+- [ ] Kaambwa
+- [ ] Kaande
+- [ ] Kaani
+- [ ] Kabaghe
+- [ ] Kabalata
+- [ ] Kabali
+- [ ] Kabanga
+- [ ] Kabaso
+- [ ] Kabemba
+- [ ] Kabeta
+- [ ] Kabeya
+- [ ] Kabila
+- [ ] Kabimba
+- [ ] Kaboba
+- [ ] Kabubu
+- [ ] Kabuta
+- [ ] Kabuya
+- [ ] Kabwe
+- [ ] Kabwela
+- [ ] Kachaka
+- [ ] Kachali
+- [ ] Kachela
+- [ ] Kachepa
+- [ ] Kachikoti
+- [ ] Kachimba
+- [ ] Kadzamira
+- [ ] Kadzuwa
+- [ ] Kaela
+- [ ] Kafimbwa
+- [ ] Kafumukache
+- [ ] Kafunda
+- [ ] Kahenya
+- [ ] Kaiche
+- [ ] Kaile
+- [ ] Kaima
+- [ ] Kajamba
+- [ ] Kajoba
+- [ ] Kakana
+- [ ] Kakoma
+- [ ] Kakoza
+- [ ] Kakuwa
+- [ ] Kalabula
+- [ ] Kalabulo
+- [ ] Kalale
+- [ ] Kalaluka
+- [ ] Kalebaila
+- [ ] Kalenga
+- [ ] Kalengo
+- [ ] Kalibanje
+- [ ] Kalichini
+- [ ] Kalikiti
+- [ ] Kalilele
+- [ ] Kalima
+- [ ] Kalimukwa
+- [ ] Kalinda
+- [ ] Kalinga
+- [ ] Kalinichenko
+- [ ] Kaluba
+- [ ] Kalulu
+- [ ] Kalumbilo
+- [ ] Kalunga
+- [ ] Kalusa
+- [ ] Kalusha
+- [ ] Kalusopa
+- [ ] Kalyalya
+- [ ] Kamala
+- [ ] Kamandisa
+- [ ] Kamanga
+- [ ] Kamba
+- [ ] Kambaenda
+- [ ] Kambangaji
+- [ ] Kambani
+- [ ] Kambela
+- [ ] Kambole
+- [ ] Kambwa
+- [ ] Kamima
+- [ ] Kaminsa
+- [ ] Kampamba
+- [ ] Kampo
+- [ ] Kamuhuzya
+- [ ] Kamungu
+- [ ] Kamungwe
+- [ ] Kamuwanga
+- [ ] Kamwala
+- [ ] Kamwambi
+- [ ] Kamwana
+- [ ] Kamwandi
+- [ ] Kamwanga
+- [ ] Kamwendo
+- [ ] Kamwengo
+- [ ] Kamwi
+- [ ] Kande
+- [ ] Kandesha
+- [ ] Kangombe
+- [ ] Kang’ombe
+- [ ] Kangoni
+- [ ] Kangwa
+- [ ] Kani
+- [ ] Kanja
+- [ ] Kanjila
+- [ ] Kankasa
+- [ ] Kansuma
+- [ ] Kantu
+- [ ] Kantumoya
+- [ ] Kanyanga
+- [ ] Kanyenda
+- [ ] Kanyengo
+- [ ] Kanyimba
+- [ ] Kaonga
+- [ ] Kapalu
+- [ ] Kapatamoyo
+- [ ] Kapatsa
+- [ ] Kapaya
+- [ ] Kapenta
+- [ ] Kapepe
+- [ ] Kapoka
+- [ ] Kapoma
+- [ ] Kapooria
+- [ ] Kapumpa
+- [ ] Kapungwe
+- [ ] Kapungwe
+- [ ] Kaputungu
+- [ ] Kapwepwe
+- [ ] Karashani
+- [ ] Kasalaba
+- [ ] Kasama
+- [ ] Kasambala
+- [ ] Kasamu
+- [ ] Kasanka
+- [ ] Kasankha
+- [ ] Kasapo
+- [ ] Kasase
+- [ ] Kaseba
+- [ ] Kasebo
+- [ ] Kaseka
+- [ ] Kashimoto
+- [ ] Kashinosha
+- [ ] Kashoki
+- [ ] Kashoonto
+- [ ] Kasobe
+- [ ] Kasoko
+- [ ] Kasoma
+- [ ] Kasonde
+- [ ] Kasonka
+- [ ] Kasumpa
+- [ ] Kasupa
+- [ ] Kasweka
+- [ ] Kaswende
+- [ ] Katambala
+- [ ] Katanga
+- [ ] Katantamalundu
+- [ ] Katebe
+- [ ] Katembula
+- [ ] Katilungu
+- [ ] Katoka
+- [ ] Katooka
+- [ ] Katongo
+- [ ] Katukula
+- [ ] Katumba
+- [ ] Katumwa
+- [ ] Katundi
+- [ ] Katundu
+- [ ] Katusha
+- [ ] Kaulu
+- [ ] Kaumba
+- [ ] Kaunda
+- [ ] Kauseni
+- [ ] Kavindele
+- [ ] Kavuta
+- [ ] Kawalika
+- [ ] Kayama
+- [ ] Kayawe
+- [ ] Kayesa
+- [ ] Kayira
+- [ ] Kayumbwa
+- [ ] Kayuni
+- [ ] Kazemba
+- [ ] Kazembe
+- [ ] Khondowe
+- [ ] Khumbo
+- [ ] Kitakwa
+- [ ] Kolala
+- [ ] Komakoma
+- [ ] Komani
+- [ ] Kombe
+- [ ] Kondowe
+- [ ] Kondwani
+- [ ] Konga
+- [ ] Koni
+- [ ] Konkola
+- [ ] Konkolo
+- [ ] Kopakopa
+- [ ] Kulusika
+- [ ] Kumwenda
+- [ ] Kunda
+- [ ] Kunkhuli
+- [ ] Kuntashula
+- [ ] Kuntempa
+- [ ] Kuntepa
+- [ ] Kunyanda
+- [ ] Kupaza
+- [ ] Kutumba
+- [ ] Kuyenda
+- [ ] Kwalira
 
 ## Zambian names beginning with the letter L
 
-Labani
-Lampi
-Lemani
-Lemba
-Lenje
-Lenshina
-Leshina
-Liato
-Lichilana
-Likando
-Likulunga
-Likwa
-Likwabilo
-Linenga
-Lineo (Lozi name meaning Gifts)
-Lipalile
-Liseli
-Lisulo
-Liwonde
-Lombe
-Longwe
-Loonde
-Lota
-Luangala
-Lubani
-Lubilo
-Lubinda
-Luchembe
-Luchenje
-Lugwalo
-Luhanga
-Lukeshi
-Lukonga
-Lumbwe
-Lundu
-Lungowe (Beautiful Girl)
-Lungu
-Lunguzi
-Lungwangwa
-Luo
-Lusaka
-Luse
-Lusenke
-Lushina
-Lusongo
-Luta
-Luundu
-Luwawa
-Luyando
-Lwandamina
-Lwando
-Lwara
-Lweendo
-Lweenge
-Lwenje
-Lwiimbo
-Lwiindi
-Lwimbo
-Lyempe
+- [ ] Labani
+- [ ] Lampi
+- [ ] Lemani
+- [ ] Lemba
+- [ ] Lenje
+- [ ] Lenshina
+- [ ] Leshina
+- [ ] Liato
+- [ ] Lichilana
+- [ ] Likando
+- [ ] Likulunga
+- [ ] Likwa
+- [ ] Likwabilo
+- [ ] Linenga
+- [ ] Lineo (Lozi name meaning Gifts)
+- [ ] Lipalile
+- [ ] Liseli
+- [ ] Lisulo
+- [ ] Liwonde
+- [ ] Lombe
+- [ ] Longwe
+- [ ] Loonde
+- [ ] Lota
+- [ ] Luangala
+- [ ] Lubani
+- [ ] Lubilo
+- [ ] Lubinda
+- [ ] Luchembe
+- [ ] Luchenje
+- [ ] Lugwalo
+- [ ] Luhanga
+- [ ] Lukeshi
+- [ ] Lukonga
+- [ ] Lumbwe
+- [ ] Lundu
+- [ ] Lungowe (Beautiful Girl)
+- [ ] Lungu
+- [ ] Lunguzi
+- [ ] Lungwangwa
+- [ ] Luo
+- [ ] Lusaka
+- [ ] Luse
+- [ ] Lusenke
+- [ ] Lushina
+- [ ] Lusongo
+- [ ] Luta
+- [ ] Luundu
+- [ ] Luwawa
+- [ ] Luyando
+- [ ] Lwandamina
+- [ ] Lwando
+- [ ] Lwara
+- [ ] Lweendo
+- [ ] Lweenge
+- [ ] Lwenje
+- [ ] Lwiimbo
+- [ ] Lwiindi
+- [ ] Lwimbo
+- [ ] Lyempe
 
 ## Zambian names beginning with the letter M
 
-M’membe
-M’punga
-Maamba
-Maambo
-Maanda
-Mabaso
-Mabiza
-Mabwe
-Machila
-Machona
-Madimutsa
-Madoda
-Mafuleka
-Magande
-Maimbo
-Maimbolwa
-Mainga
-Mainza
-Makala
-Makamba
-Makanta
-Makasa
-Makolo
-Makondo
-Makoto
-Makungu
-Makweembo
-Makwiza
-Malaiti
-Malako
-Malala
-Malama
-Malambo
-Malawo
-Malaya
-Malema
-Maliko
-Malila
-Malilwe
-Malindima
-Maliro
-Malitoli
-Malundu
-Malunga
-Malungisa
-Malungo
-Malupande
-Malyangu
-Mambilima
-Mambo
-Mambwe
-Manasse
-Manchishi
-Manda
-Mangande
-Mangochi
-Mangwato
-Manjimela
-Manjimera
-Mankomba
-Manyamuna
-Manza
-Mapani
-Mapenzi
-Mapoma
-Mapulanga
-Masaninga
-Masanza
-Masase
-Masautso
-Masebe
-Masebo
-Maseko
-Masenke
-Masese
-Masheke
-Masialeti
-Masialeti
-Masiye
-Masiye
-Masuku
-Masuwa
-Masuzyo
-Matafwali
-Matambo
-Mataya
-Matenga
-Matete
-Matewere
-Mateyo
-Matibini
-Matimba
-Matoka
-Matola
-Matondo
-Matongo
-Matonka
-Maunga
-Mayaba
-Mayumbelo
-Mayuni
-Mazoka
-Mazunda
-Mbale
-Mbamu
-Mbamu(nya)
-Mbamunya
-Mbangweta
-Mbao
-Mbata
-Mbazima
-Mbengwa
-Mbeule
-Mbewe
-Mbeza
-Mbilila
-Mbinji
-Mbisa
-Mbita
-Mboole
-Mbozi
-Mbulo
-Mbumwaye
-Mbwayu
-Mdala
-Mdolo
-Meena
-Mfula
-Mfune
-Mhamapande
-Mhango
-Mhani
-Mhlanga
-Mhone
-Mibenge
-Michelo
-Milanzi
-Milimo
-Milingo
-Misozi
-Mitambo
-Miti
-Miyanda
-Miyendekwa
-Miyoba
-Mizinga
-Mkamanga
-Mkandawire
-Mkanga
-Mkosha
-Mkumba
-Mkweza
-Mlanga
-Mlangeni
-Mlauzi
-Mlozi
-M’membe
-Molela
-Momba
-Mombelela
-Monde
-Monze
-Mooka
-Moolela
-Moomba
-Moonde
-Moonga
-Moono
-Mooya
-Mopani
-Moya
-Moyo
-Mpabalwani
-Mpande
-Mpaso
-Mpensele
-Mpenzere
-Mpezeni
-Mphande
-Mphatso
-Mpheneka
-Mphepo
-Mphuka
-Mpinganjira
-Mpofu
-Mpondela
-Mpunga
-Msango
-Mseteka
-Msimbi
-Msiska
-Msokera
-Msowoya
-Msuku
-Msundwe
-Mtambo
-Mtawali
-Mtewa
-Mtika
-Mtonga
-Mubanga
-Mubila
-Mubita
-Mubiyana
-Mubu
-Muchimba
-Muchindu
-Muchoka
-Muchole
-Muchona
-Mudaala
-Mudala
-Mudenda
-Mudenka
-Mudima
-Mudodoli
-Mudubeko
-Mufwembe
-Mugala
-Mugwagwa
-Muhango
-Mujajati
-Mukabanga
-Mukachiwa
-Mukachooma
-Mukakachela
-Mukelebai
-Mukoka
-Mukombwe
-Mukonde
-Mukonka
-Mukosa
-Mukosha
-Mukoweza
-Mukuka
-Mukuma
-Mukuni
-Mukunka
-Mukwakwa
-Mukwanka
-Mukwena
-Mulambo
-Mulao
-Mulele
-Mulemba
-Mulembe
-Mulenga
-Mulengela
-Muleta
-Muleya
-Muleza
-Mulia
-Mulikita
-Mulilo
-Mulima
-Mulimbe
-Mulla
-Mulombwa
-Mulonda
-Mulonga
-Muloongo
-Mulubwa
-Mulundu
-Mulyango
-Mulyata
-Mulyokela
-Mumba
-Mumbi
-Mumeka
-Munachoonga
-Munakambwe
-Munakombwe
-Munakupya
-Munalula
-Munamonga
-Munangandu
-Munatamba
-Munda
-Mundia
-Munemo
-Munene
-Mungaila
-Munganga
-Mungili
-Mungo
-Mungomba
-Mungo’mba
-Mungule
-Mungwa
-Munjwayi
-Munkanta
-Munkombwe
-Munkonge
-Munsaka
-Munsanje
-Muntanga
-Munthali
-Munyati
-Munyeme
-Munyinda
-Munyongo
-Munyumbwe
-Munzele
-Muoghalu
-Mupuchi
-Musakay
-Musanchi
-Musanshi
-Musauta
-Museli
-Mushala
-Mushiba
-Musoli
-Musonda
-Musondela
-Musondela
-Musongo
-Musopole
-Musuku
-Musukwa
-Mususu
-Mutale
-Mutambo
-Mutapa
-Mutati
-Muteba
-Mutesa
-Muthiya
-Mutinta
-Mutoloka
-Mutombo
-Mutongami
-Mutti
-Mutuba
-Mutukwa
-Muule
-Muumba
-Muunda
-Muungo
-Muwanda
-Muwo
-Muwowo
-Muya
-Muyanda
-Muyani
-Muyatwa
-Muyeba
-Muyembe
-Muyoba
-Muyoba
-Muyoyeta
-Muyunda
-Muzandu
-Muzongwe
-Muzonsinzonyi
-Muzyamaba
-Mvula
-Mvunga
-Mwaanga
-Mwaanga
-Mwaba
-Mwabu
-Mwacalimba
-Mwafulilwa
-Mwagomba
-Mwaka
-Mwakalombe
-Mwala
-Mwale
-Mwalula
-Mwaluputa
-Mwalwanda
-Mwalwenje
-Mwamba
-Mwanachilenga
-Mwanachingwala
-Mwanagaza
-Mwanahamuntu
-Mwanajiti
-Mwanakatwe
-Mwanambulo
-Mwanansaluka
-Mwananshiku
-Mwanawasa
-Mwanawina
-Mwandalubi
-Mwandang’ombe
-Mwandenga
-Mwandila
-Mwandu
-Mwangala
-Mwangata
-Mwangelwa
-Mwangilwa
-Mwango
-Mwansa
-Mwanza
-Mwape
-Mwase
-Mwase
-Mwashya
-Mwauluka
-Mweeba
-Mweemba
-Mweendalubi
-Mweene
-Mweetwa
-Mwelwa
-Mwemba
-Mwembeshi
-Mwenda
-Mwendaweli
-Mwenya
-Mwenzo
-Mwewa
-Mwiika
-Mwiimbu
-Mwiinde
-Mwiindi
-Mwiindilila
-Mwiinga
-Mwiiya
-Mwikisa
-Mwila
-Mwilu
-Mwimbu
-Mwindilila
-Mwinga
-Mwita
-Mwitangeni
-Mwiya
-Mzembe
-Mzima
-Mzumara
+- [ ] M’membe
+- [ ] M’punga
+- [ ] Maamba
+- [ ] Maambo
+- [ ] Maanda
+- [ ] Mabaso
+- [ ] Mabiza
+- [ ] Mabwe
+- [ ] Machila
+- [ ] Machona
+- [ ] Madimutsa
+- [ ] Madoda
+- [ ] Mafuleka
+- [ ] Magande
+- [ ] Maimbo
+- [ ] Maimbolwa
+- [ ] Mainga
+- [ ] Mainza
+- [ ] Makala
+- [ ] Makamba
+- [ ] Makanta
+- [ ] Makasa
+- [ ] Makolo
+- [ ] Makondo
+- [ ] Makoto
+- [ ] Makungu
+- [ ] Makweembo
+- [ ] Makwiza
+- [ ] Malaiti
+- [ ] Malako
+- [ ] Malala
+- [ ] Malama
+- [ ] Malambo
+- [ ] Malawo
+- [ ] Malaya
+- [ ] Malema
+- [ ] Maliko
+- [ ] Malila
+- [ ] Malilwe
+- [ ] Malindima
+- [ ] Maliro
+- [ ] Malitoli
+- [ ] Malundu
+- [ ] Malunga
+- [ ] Malungisa
+- [ ] Malungo
+- [ ] Malupande
+- [ ] Malyangu
+- [ ] Mambilima
+- [ ] Mambo
+- [ ] Mambwe
+- [ ] Manasse
+- [ ] Manchishi
+- [ ] Manda
+- [ ] Mangande
+- [ ] Mangochi
+- [ ] Mangwato
+- [ ] Manjimela
+- [ ] Manjimera
+- [ ] Mankomba
+- [ ] Manyamuna
+- [ ] Manza
+- [ ] Mapani
+- [ ] Mapenzi
+- [ ] Mapoma
+- [ ] Mapulanga
+- [ ] Masaninga
+- [ ] Masanza
+- [ ] Masase
+- [ ] Masautso
+- [ ] Masebe
+- [ ] Masebo
+- [ ] Maseko
+- [ ] Masenke
+- [ ] Masese
+- [ ] Masheke
+- [ ] Masialeti
+- [ ] Masialeti
+- [ ] Masiye
+- [ ] Masiye
+- [ ] Masuku
+- [ ] Masuwa
+- [ ] Masuzyo
+- [ ] Matafwali
+- [ ] Matambo
+- [ ] Mataya
+- [ ] Matenga
+- [ ] Matete
+- [ ] Matewere
+- [ ] Mateyo
+- [ ] Matibini
+- [ ] Matimba
+- [ ] Matoka
+- [ ] Matola
+- [ ] Matondo
+- [ ] Matongo
+- [ ] Matonka
+- [ ] Maunga
+- [ ] Mayaba
+- [ ] Mayumbelo
+- [ ] Mayuni
+- [ ] Mazoka
+- [ ] Mazunda
+- [ ] Mbale
+- [ ] Mbamu
+- [ ] Mbamu(nya)
+- [ ] Mbamunya
+- [ ] Mbangweta
+- [ ] Mbao
+- [ ] Mbata
+- [ ] Mbazima
+- [ ] Mbengwa
+- [ ] Mbeule
+- [ ] Mbewe
+- [ ] Mbeza
+- [ ] Mbilila
+- [ ] Mbinji
+- [ ] Mbisa
+- [ ] Mbita
+- [ ] Mboole
+- [ ] Mbozi
+- [ ] Mbulo
+- [ ] Mbumwaye
+- [ ] Mbwayu
+- [ ] Mdala
+- [ ] Mdolo
+- [ ] Meena
+- [ ] Mfula
+- [ ] Mfune
+- [ ] Mhamapande
+- [ ] Mhango
+- [ ] Mhani
+- [ ] Mhlanga
+- [ ] Mhone
+- [ ] Mibenge
+- [ ] Michelo
+- [ ] Milanzi
+- [ ] Milimo
+- [ ] Milingo
+- [ ] Misozi
+- [ ] Mitambo
+- [ ] Miti
+- [ ] Miyanda
+- [ ] Miyendekwa
+- [ ] Miyoba
+- [ ] Mizinga
+- [ ] Mkamanga
+- [ ] Mkandawire
+- [ ] Mkanga
+- [ ] Mkosha
+- [ ] Mkumba
+- [ ] Mkweza
+- [ ] Mlanga
+- [ ] Mlangeni
+- [ ] Mlauzi
+- [ ] Mlozi
+- [ ] M’membe
+- [ ] Molela
+- [ ] Momba
+- [ ] Mombelela
+- [ ] Monde
+- [ ] Monze
+- [ ] Mooka
+- [ ] Moolela
+- [ ] Moomba
+- [ ] Moonde
+- [ ] Moonga
+- [ ] Moono
+- [ ] Mooya
+- [ ] Mopani
+- [ ] Moya
+- [ ] Moyo
+- [ ] Mpabalwani
+- [ ] Mpande
+- [ ] Mpaso
+- [ ] Mpensele
+- [ ] Mpenzere
+- [ ] Mpezeni
+- [ ] Mphande
+- [ ] Mphatso
+- [ ] Mpheneka
+- [ ] Mphepo
+- [ ] Mphuka
+- [ ] Mpinganjira
+- [ ] Mpofu
+- [ ] Mpondela
+- [ ] Mpunga
+- [ ] Msango
+- [ ] Mseteka
+- [ ] Msimbi
+- [ ] Msiska
+- [ ] Msokera
+- [ ] Msowoya
+- [ ] Msuku
+- [ ] Msundwe
+- [ ] Mtambo
+- [ ] Mtawali
+- [ ] Mtewa
+- [ ] Mtika
+- [ ] Mtonga
+- [ ] Mubanga
+- [ ] Mubila
+- [ ] Mubita
+- [ ] Mubiyana
+- [ ] Mubu
+- [ ] Muchimba
+- [ ] Muchindu
+- [ ] Muchoka
+- [ ] Muchole
+- [ ] Muchona
+- [ ] Mudaala
+- [ ] Mudala
+- [ ] Mudenda
+- [ ] Mudenka
+- [ ] Mudima
+- [ ] Mudodoli
+- [ ] Mudubeko
+- [ ] Mufwembe
+- [ ] Mugala
+- [ ] Mugwagwa
+- [ ] Muhango
+- [ ] Mujajati
+- [ ] Mukabanga
+- [ ] Mukachiwa
+- [ ] Mukachooma
+- [ ] Mukakachela
+- [ ] Mukelebai
+- [ ] Mukoka
+- [ ] Mukombwe
+- [ ] Mukonde
+- [ ] Mukonka
+- [ ] Mukosa
+- [ ] Mukosha
+- [ ] Mukoweza
+- [ ] Mukuka
+- [ ] Mukuma
+- [ ] Mukuni
+- [ ] Mukunka
+- [ ] Mukwakwa
+- [ ] Mukwanka
+- [ ] Mukwena
+- [ ] Mulambo
+- [ ] Mulao
+- [ ] Mulele
+- [ ] Mulemba
+- [ ] Mulembe
+- [ ] Mulenga
+- [ ] Mulengela
+- [ ] Muleta
+- [ ] Muleya
+- [ ] Muleza
+- [ ] Mulia
+- [ ] Mulikita
+- [ ] Mulilo
+- [ ] Mulima
+- [ ] Mulimbe
+- [ ] Mulla
+- [ ] Mulombwa
+- [ ] Mulonda
+- [ ] Mulonga
+- [ ] Muloongo
+- [ ] Mulubwa
+- [ ] Mulundu
+- [ ] Mulyango
+- [ ] Mulyata
+- [ ] Mulyokela
+- [ ] Mumba
+- [ ] Mumbi
+- [ ] Mumeka
+- [ ] Munachoonga
+- [ ] Munakambwe
+- [ ] Munakombwe
+- [ ] Munakupya
+- [ ] Munalula
+- [ ] Munamonga
+- [ ] Munangandu
+- [ ] Munatamba
+- [ ] Munda
+- [ ] Mundia
+- [ ] Munemo
+- [ ] Munene
+- [ ] Mungaila
+- [ ] Munganga
+- [ ] Mungili
+- [ ] Mungo
+- [ ] Mungomba
+- [ ] Mungo’mba
+- [ ] Mungule
+- [ ] Mungwa
+- [ ] Munjwayi
+- [ ] Munkanta
+- [ ] Munkombwe
+- [ ] Munkonge
+- [ ] Munsaka
+- [ ] Munsanje
+- [ ] Muntanga
+- [ ] Munthali
+- [ ] Munyati
+- [ ] Munyeme
+- [ ] Munyinda
+- [ ] Munyongo
+- [ ] Munyumbwe
+- [ ] Munzele
+- [ ] Muoghalu
+- [ ] Mupuchi
+- [ ] Musakay
+- [ ] Musanchi
+- [ ] Musanshi
+- [ ] Musauta
+- [ ] Museli
+- [ ] Mushala
+- [ ] Mushiba
+- [ ] Musoli
+- [ ] Musonda
+- [ ] Musondela
+- [ ] Musondela
+- [ ] Musongo
+- [ ] Musopole
+- [ ] Musuku
+- [ ] Musukwa
+- [ ] Mususu
+- [ ] Mutale
+- [ ] Mutambo
+- [ ] Mutapa
+- [ ] Mutati
+- [ ] Muteba
+- [ ] Mutesa
+- [ ] Muthiya
+- [ ] Mutinta
+- [ ] Mutoloka
+- [ ] Mutombo
+- [ ] Mutongami
+- [ ] Mutti
+- [ ] Mutuba
+- [ ] Mutukwa
+- [ ] Muule
+- [ ] Muumba
+- [ ] Muunda
+- [ ] Muungo
+- [ ] Muwanda
+- [ ] Muwo
+- [ ] Muwowo
+- [ ] Muya
+- [ ] Muyanda
+- [ ] Muyani
+- [ ] Muyatwa
+- [ ] Muyeba
+- [ ] Muyembe
+- [ ] Muyoba
+- [ ] Muyoba
+- [ ] Muyoyeta
+- [ ] Muyunda
+- [ ] Muzandu
+- [ ] Muzongwe
+- [ ] Muzonsinzonyi
+- [ ] Muzyamaba
+- [ ] Mvula
+- [ ] Mvunga
+- [ ] Mwaanga
+- [ ] Mwaanga
+- [ ] Mwaba
+- [ ] Mwabu
+- [ ] Mwacalimba
+- [ ] Mwafulilwa
+- [ ] Mwagomba
+- [ ] Mwaka
+- [ ] Mwakalombe
+- [ ] Mwala
+- [ ] Mwale
+- [ ] Mwalula
+- [ ] Mwaluputa
+- [ ] Mwalwanda
+- [ ] Mwalwenje
+- [ ] Mwamba
+- [ ] Mwanachilenga
+- [ ] Mwanachingwala
+- [ ] Mwanagaza
+- [ ] Mwanahamuntu
+- [ ] Mwanajiti
+- [ ] Mwanakatwe
+- [ ] Mwanambulo
+- [ ] Mwanansaluka
+- [ ] Mwananshiku
+- [ ] Mwanawasa
+- [ ] Mwanawina
+- [ ] Mwandalubi
+- [ ] Mwandang’ombe
+- [ ] Mwandenga
+- [ ] Mwandila
+- [ ] Mwandu
+- [ ] Mwangala
+- [ ] Mwangata
+- [ ] Mwangelwa
+- [ ] Mwangilwa
+- [ ] Mwango
+- [ ] Mwansa
+- [ ] Mwanza
+- [ ] Mwape
+- [ ] Mwase
+- [ ] Mwase
+- [ ] Mwashya
+- [ ] Mwauluka
+- [ ] Mweeba
+- [ ] Mweemba
+- [ ] Mweendalubi
+- [ ] Mweene
+- [ ] Mweetwa
+- [ ] Mwelwa
+- [ ] Mwemba
+- [ ] Mwembeshi
+- [ ] Mwenda
+- [ ] Mwendaweli
+- [ ] Mwenya
+- [ ] Mwenzo
+- [ ] Mwewa
+- [ ] Mwiika
+- [ ] Mwiimbu
+- [ ] Mwiinde
+- [ ] Mwiindi
+- [ ] Mwiindilila
+- [ ] Mwiinga
+- [ ] Mwiiya
+- [ ] Mwikisa
+- [ ] Mwila
+- [ ] Mwilu
+- [ ] Mwimbu
+- [ ] Mwindilila
+- [ ] Mwinga
+- [ ] Mwita
+- [ ] Mwitangeni
+- [ ] Mwiya
+- [ ] Mzembe
+- [ ] Mzima
+- [ ] Mzumara
 
 ## Zambian names beginning with the letter N
 
-Nabeene
-Nabulyato
-Nachibanga
-Nachinga
-Nachula
-Nakalonga
-Nakanyika
-Nakasula
-Nakawala
-Nalubamba
-Nalube
-Namaanda
-Namadembwe
-Namafe
-Namaka
-Namakobo
-Namalambo
-Namanda
-Namasumo
-Namatama
-Namaundu
-Namazaba
-Nambota
-Nambule
-Nambwalu
-Namoko
-Namomba
-Namoomba
-Nampito
-Namuka
-Namukolo
-Namulomba
-Namusiya
-Namuuka
-Namwaka
-Namwamba
-Namwanga
-Namwela
-Namwinga
-Namwiinga (Bride)
-Nandi
-Nang’ambwa
-Nangomba
-Nang’omba
-Nanyangwe
-Nataala
-Natala
-Nawa
-Nawakwi
-Nawale
-Nchelenge
-Nchembele
-Nchito
-Ndafoka
-Ndawana
-Ndele
-Ndhlema
-Ndhlovu
-Ndili
-Ndilila
-Ndonyo
-Ndovi
-Ndubani
-Ndulo
-Ndumba
-Ndumbo
-Nduumba
-Ng’oma
-Ngambi
-Ng’andu
-Ngandwe
-Ngemela
-Ngenda
-Ngobeka
-Ngocha
-Ngoma
-Ngombe
-Ng’ombe
-Ngondo
-Ngoni
-Ngosa
-Ngoshe
-Ngoza
-Ngulube
-Ngululu
-Ng’uni
-Ngwengwe
-Ngwenya
-Ngwira
-Ngwisha
-Nhlane
-Nhlema
-Nhova
-Njanji
-Njavwa
-Njavwani
-Njekwa
-Njobe
-Njobvu
-Njovu
-Nkana
-Nkandela
-Nkandu
-Nkhana
-Nkhata
-Nkhetani
-Nkhoma
-Nkhonjera
-Nkhono
-Nkhuwa
-Nkhwazi
-Nkole
-Nkolola
-Nkoloma
-Nkombo
-Nkomesha
-Nkonde
-Nkonge
-Nkonjera
-Nkoombo
-Nkosha
-Nkosi
-Nkula
-Nkumbula
-Nkungulu
-Nkunika
-Nonde
-Nosiku
-Noyoo
-Nsabila
-Nsama
-Nsamba
-Nsamwa
-Nsemukila
-Nshimbi
-Nsunzu
-Nswana
-Ntaamba
-Ntalasha
-Ntandabale
-Ntaulu
-Ntimbo
-Ntinga
-Ntwatta
-Nundwe
-Nyalugwe
-Nyambe
-Nyambo
-Nyasa
-Nyasulu
-Nyirenda
-Nyirongo
-Nyondo
-Nyoni
-Nyumba
-Nyumbu
-Nzala
+- [ ] Nabeene
+- [ ] Nabulyato
+- [ ] Nachibanga
+- [ ] Nachinga
+- [ ] Nachula
+- [ ] Nakalonga
+- [ ] Nakanyika
+- [ ] Nakasula
+- [ ] Nakawala
+- [ ] Nalubamba
+- [ ] Nalube
+- [ ] Namaanda
+- [ ] Namadembwe
+- [ ] Namafe
+- [ ] Namaka
+- [ ] Namakobo
+- [ ] Namalambo
+- [ ] Namanda
+- [ ] Namasumo
+- [ ] Namatama
+- [ ] Namaundu
+- [ ] Namazaba
+- [ ] Nambota
+- [ ] Nambule
+- [ ] Nambwalu
+- [ ] Namoko
+- [ ] Namomba
+- [ ] Namoomba
+- [ ] Nampito
+- [ ] Namuka
+- [ ] Namukolo
+- [ ] Namulomba
+- [ ] Namusiya
+- [ ] Namuuka
+- [ ] Namwaka
+- [ ] Namwamba
+- [ ] Namwanga
+- [ ] Namwela
+- [ ] Namwinga
+- [ ] Namwiinga (Bride)
+- [ ] Nandi
+- [ ] Nang’ambwa
+- [ ] Nangomba
+- [ ] Nang’omba
+- [ ] Nanyangwe
+- [ ] Nataala
+- [ ] Natala
+- [ ] Nawa
+- [ ] Nawakwi
+- [ ] Nawale
+- [ ] Nchelenge
+- [ ] Nchembele
+- [ ] Nchito
+- [ ] Ndafoka
+- [ ] Ndawana
+- [ ] Ndele
+- [ ] Ndhlema
+- [ ] Ndhlovu
+- [ ] Ndili
+- [ ] Ndilila
+- [ ] Ndonyo
+- [ ] Ndovi
+- [ ] Ndubani
+- [ ] Ndulo
+- [ ] Ndumba
+- [ ] Ndumbo
+- [ ] Nduumba
+- [ ] Ng’oma
+- [ ] Ngambi
+- [ ] Ng’andu
+- [ ] Ngandwe
+- [ ] Ngemela
+- [ ] Ngenda
+- [ ] Ngobeka
+- [ ] Ngocha
+- [ ] Ngoma
+- [ ] Ngombe
+- [ ] Ng’ombe
+- [ ] Ngondo
+- [ ] Ngoni
+- [ ] Ngosa
+- [ ] Ngoshe
+- [ ] Ngoza
+- [ ] Ngulube
+- [ ] Ngululu
+- [ ] Ng’uni
+- [ ] Ngwengwe
+- [ ] Ngwenya
+- [ ] Ngwira
+- [ ] Ngwisha
+- [ ] Nhlane
+- [ ] Nhlema
+- [ ] Nhova
+- [ ] Njanji
+- [ ] Njavwa
+- [ ] Njavwani
+- [ ] Njekwa
+- [ ] Njobe
+- [ ] Njobvu
+- [ ] Njovu
+- [ ] Nkana
+- [ ] Nkandela
+- [ ] Nkandu
+- [ ] Nkhana
+- [ ] Nkhata
+- [ ] Nkhetani
+- [ ] Nkhoma
+- [ ] Nkhonjera
+- [ ] Nkhono
+- [ ] Nkhuwa
+- [ ] Nkhwazi
+- [ ] Nkole
+- [ ] Nkolola
+- [ ] Nkoloma
+- [ ] Nkombo
+- [ ] Nkomesha
+- [ ] Nkonde
+- [ ] Nkonge
+- [ ] Nkonjera
+- [ ] Nkoombo
+- [ ] Nkosha
+- [ ] Nkosi
+- [ ] Nkula
+- [ ] Nkumbula
+- [ ] Nkungulu
+- [ ] Nkunika
+- [ ] Nonde
+- [ ] Nosiku
+- [ ] Noyoo
+- [ ] Nsabila
+- [ ] Nsama
+- [ ] Nsamba
+- [ ] Nsamwa
+- [ ] Nsemukila
+- [ ] Nshimbi
+- [ ] Nsunzu
+- [ ] Nswana
+- [ ] Ntaamba
+- [ ] Ntalasha
+- [ ] Ntandabale
+- [ ] Ntaulu
+- [ ] Ntimbo
+- [ ] Ntinga
+- [ ] Ntwatta
+- [ ] Nundwe
+- [ ] Nyalugwe
+- [ ] Nyambe
+- [ ] Nyambo
+- [ ] Nyasa
+- [ ] Nyasulu
+- [ ] Nyirenda
+- [ ] Nyirongo
+- [ ] Nyondo
+- [ ] Nyoni
+- [ ] Nyumba
+- [ ] Nyumbu
+- [ ] Nzala
 
 ## Zambian names beginning with the letter O
 
-Onani
+- [ ] Onani
 
 ## Zambian names beginning with the letter P
 
-Padoko
-Paipi
-Pande
-Panji
-Pasi
-Paulu
-Pemba
-Penza
-Phiri
-Puka
-Pule
-Puta
-Puula
-Pyoka
+- [ ] Padoko
+- [ ] Paipi
+- [ ] Pande
+- [ ] Panji
+- [ ] Pasi
+- [ ] Paulu
+- [ ] Pemba
+- [ ] Penza
+- [ ] Phiri
+- [ ] Puka
+- [ ] Pule
+- [ ] Puta
+- [ ] Puula
+- [ ] Pyoka
 
 ## Zambian names beginning with the letter S
 
-Saasa
-Saboi
-Sakala
-Sakalani
-Sakeyo
-Saluseki
-Sampa
-Samulela
-Sangambo
-Sangwa
-Sangwa
-Sata
-Sekani
-Seko
-Seleta
-Sepiso
-Sepo
-Seshamani
-Shaba
-Shabwacha
-Shakalima
-Shakalongo
-Shakankale
-Shakemba
-Shalabi
-Shamakamba
-Shamenda
-Shamilimo
-Shamilupa
-Shamwana
-Shanungu
-Shanzele
-Shapongo
-Shawa
-Shezongo
-Shibalatani
-Shibemba
-Shikabenga
-Shikapande
-Shimabale
-Shimo
-Shimonde
-Shimpande
-Shimwamba
-Shimwambi
-Shindano
-Shinganga
-Shitumbanuma
-Shona
-Shonga
-Shumina
-Shungamu
-Shungwa
-Shuungwa
-Siabasimbi
-Siabasiye
-Siabukali
-Siakalima
-Siakwasiya
-Siakwasiye
-Siamabale
-Siamagadi
-Siamapangila
-Siamate
-Siambelele
-Siame
-Siampangila
-Siampisani
-Siamunga
-Siamwenya
-Siamwiza
-Siandula
-Sianga
-Sianjovo
-Siankombwe
-Sianungu
-Sianzyunge
-Siapenga
-Siapwaya
-Siasinyanga
-Siasuntwe
-Siatontola
-Sibajene
-Sibalwa
-Sibalwa
-Sibanda
-Sibanda
-Sibanje
-Sibanyama
-Sibanze
-Sibeso
-Sibinda
-Sibulinjase
-Sichali
-Sichilongo
-Sichinga
-Sichiondwe
-Sichizya
-Sichombo
-Sichone
-Sigubbu
-Sigundu
-Sihumbwa
-Sijabala
-Sikabbubba
-Sikabwili
-Sikale
-Sikalumba
-Sikasapo
-Sikatana
-Sikawe
-Sikazinga
-Sikazwe
-Sikoobosya
-Sikoosya
-Sikosya
-Sikota
-Sikuka
-Siliya
-Siloka
-Silumbe
-Silwamba
-Silwebbe
-Silweya
-Silwimba
-Simachembele
-Simakonga
-Simakunda
-Simalimbu
-Simaliza
-Simalonga
-Simanansa
-Simasiku
-Simata
-Simaubi
-Simbule
-Simbulo
-Simbyakula
-Simenda
-Simeza
-Simpelwa
-Simpungwe
-Simubali
-Simuchele
-Simuchelete
-Simuchembo
-Simuchimba
-Simuchoba
-Simukoko
-Simukonda
-Simukwela
-Simule
-Simuleya
-Simulilika
-Simungala
-Simungu
-Simusamba
-Simutanyi
-Simutelo
-Simutenda
-Simuule
-Simuunza
-Simuyandi
-Simuzingili
-Simwaka
-Simwambana
-Simwanza
-Simwinga
-Sinantuundu
-Sinkala
-Sinkamba
-Sinkolongo
-Sinyama
-Sinyangwe
-Sinyinda
-Sinyinza
-Sipalo
-Sipula
-Sisya
-Sitali
-Sitambuli
-Sitenge
-Sitibikeso
-Sitima
-Situmbeko
-Situwa
-Sitwala
-Siulapwa
-Siulapwa
-Siwale
-Siwela
-Siwila
-Siwombo
-Siyumbwa
-Siyungwa
-Siziya
-Soko
-Sshanungu
-Subulwa
-Sumaili
-Sumbwa
-Sunkutu
-Sutwe
-Suzyo
-Syabbamba
-Syachibala
-Syachinene
-Syadanga
-Syajeya
-Syakabeya
-Syakalima
-Syambango
-Syamwenya
-Syandula
-Syanjovo
+- [ ] Saasa
+- [ ] Saboi
+- [ ] Sakala
+- [ ] Sakalani
+- [ ] Sakeyo
+- [ ] Saluseki
+- [ ] Sampa
+- [ ] Samulela
+- [ ] Sangambo
+- [ ] Sangwa
+- [ ] Sangwa
+- [ ] Sata
+- [ ] Sekani
+- [ ] Seko
+- [ ] Seleta
+- [ ] Sepiso
+- [ ] Sepo
+- [ ] Seshamani
+- [ ] Shaba
+- [ ] Shabwacha
+- [ ] Shakalima
+- [ ] Shakalongo
+- [ ] Shakankale
+- [ ] Shakemba
+- [ ] Shalabi
+- [ ] Shamakamba
+- [ ] Shamenda
+- [ ] Shamilimo
+- [ ] Shamilupa
+- [ ] Shamwana
+- [ ] Shanungu
+- [ ] Shanzele
+- [ ] Shapongo
+- [ ] Shawa
+- [ ] Shezongo
+- [ ] Shibalatani
+- [ ] Shibemba
+- [ ] Shikabenga
+- [ ] Shikapande
+- [ ] Shimabale
+- [ ] Shimo
+- [ ] Shimonde
+- [ ] Shimpande
+- [ ] Shimwamba
+- [ ] Shimwambi
+- [ ] Shindano
+- [ ] Shinganga
+- [ ] Shitumbanuma
+- [ ] Shona
+- [ ] Shonga
+- [ ] Shumina
+- [ ] Shungamu
+- [ ] Shungwa
+- [ ] Shuungwa
+- [ ] Siabasimbi
+- [ ] Siabasiye
+- [ ] Siabukali
+- [ ] Siakalima
+- [ ] Siakwasiya
+- [ ] Siakwasiye
+- [ ] Siamabale
+- [ ] Siamagadi
+- [ ] Siamapangila
+- [ ] Siamate
+- [ ] Siambelele
+- [ ] Siame
+- [ ] Siampangila
+- [ ] Siampisani
+- [ ] Siamunga
+- [ ] Siamwenya
+- [ ] Siamwiza
+- [ ] Siandula
+- [ ] Sianga
+- [ ] Sianjovo
+- [ ] Siankombwe
+- [ ] Sianungu
+- [ ] Sianzyunge
+- [ ] Siapenga
+- [ ] Siapwaya
+- [ ] Siasinyanga
+- [ ] Siasuntwe
+- [ ] Siatontola
+- [ ] Sibajene
+- [ ] Sibalwa
+- [ ] Sibalwa
+- [ ] Sibanda
+- [ ] Sibanda
+- [ ] Sibanje
+- [ ] Sibanyama
+- [ ] Sibanze
+- [ ] Sibeso
+- [ ] Sibinda
+- [ ] Sibulinjase
+- [ ] Sichali
+- [ ] Sichilongo
+- [ ] Sichinga
+- [ ] Sichiondwe
+- [ ] Sichizya
+- [ ] Sichombo
+- [ ] Sichone
+- [ ] Sigubbu
+- [ ] Sigundu
+- [ ] Sihumbwa
+- [ ] Sijabala
+- [ ] Sikabbubba
+- [ ] Sikabwili
+- [ ] Sikale
+- [ ] Sikalumba
+- [ ] Sikasapo
+- [ ] Sikatana
+- [ ] Sikawe
+- [ ] Sikazinga
+- [ ] Sikazwe
+- [ ] Sikoobosya
+- [ ] Sikoosya
+- [ ] Sikosya
+- [ ] Sikota
+- [ ] Sikuka
+- [ ] Siliya
+- [ ] Siloka
+- [ ] Silumbe
+- [ ] Silwamba
+- [ ] Silwebbe
+- [ ] Silweya
+- [ ] Silwimba
+- [ ] Simachembele
+- [ ] Simakonga
+- [ ] Simakunda
+- [ ] Simalimbu
+- [ ] Simaliza
+- [ ] Simalonga
+- [ ] Simanansa
+- [ ] Simasiku
+- [ ] Simata
+- [ ] Simaubi
+- [ ] Simbule
+- [ ] Simbulo
+- [ ] Simbyakula
+- [ ] Simenda
+- [ ] Simeza
+- [ ] Simpelwa
+- [ ] Simpungwe
+- [ ] Simubali
+- [ ] Simuchele
+- [ ] Simuchelete
+- [ ] Simuchembo
+- [ ] Simuchimba
+- [ ] Simuchoba
+- [ ] Simukoko
+- [ ] Simukonda
+- [ ] Simukwela
+- [ ] Simule
+- [ ] Simuleya
+- [ ] Simulilika
+- [ ] Simungala
+- [ ] Simungu
+- [ ] Simusamba
+- [ ] Simutanyi
+- [ ] Simutelo
+- [ ] Simutenda
+- [ ] Simuule
+- [ ] Simuunza
+- [ ] Simuyandi
+- [ ] Simuzingili
+- [ ] Simwaka
+- [ ] Simwambana
+- [ ] Simwanza
+- [ ] Simwinga
+- [ ] Sinantuundu
+- [ ] Sinkala
+- [ ] Sinkamba
+- [ ] Sinkolongo
+- [ ] Sinyama
+- [ ] Sinyangwe
+- [ ] Sinyinda
+- [ ] Sinyinza
+- [ ] Sipalo
+- [ ] Sipula
+- [ ] Sisya
+- [ ] Sitali
+- [ ] Sitambuli
+- [ ] Sitenge
+- [ ] Sitibikeso
+- [ ] Sitima
+- [ ] Situmbeko
+- [ ] Situwa
+- [ ] Sitwala
+- [ ] Siulapwa
+- [ ] Siulapwa
+- [ ] Siwale
+- [ ] Siwela
+- [ ] Siwila
+- [ ] Siwombo
+- [ ] Siyumbwa
+- [ ] Siyungwa
+- [ ] Siziya
+- [ ] Soko
+- [ ] Sshanungu
+- [ ] Subulwa
+- [ ] Sumaili
+- [ ] Sumbwa
+- [ ] Sunkutu
+- [ ] Sutwe
+- [ ] Suzyo
+- [ ] Syabbamba
+- [ ] Syachibala
+- [ ] Syachinene
+- [ ] Syadanga
+- [ ] Syajeya
+- [ ] Syakabeya
+- [ ] Syakalima
+- [ ] Syambango
+- [ ] Syamwenya
+- [ ] Syandula
+- [ ] Syanjovo
 
 ## Zambian names beginning with the letter T
 
-Tabakamulamu
-Tambale
-Tambatamba
-Tambulukani
-Tana
-Tasheni
-Tataya
-Taulu
-Tembo
-Tembwe
-Temwani
-Tentesha
-Tepa
-Thambo
-Thambolani
-Thawani
-Thindwa
-Tione
-Tiyaonse
-Towa
-Towani
-Towela
-Tshipampa
-Tsogolani
-Tukuza
-Twaambe
-Twaambo
-Twaange
-Twambo
-Tweenda
-Tweende
-Twiimbe
-Twiindilila
+- [ ] Tabakamulamu
+- [ ] Tambale
+- [ ] Tambatamba
+- [ ] Tambulukani
+- [ ] Tana
+- [ ] Tasheni
+- [ ] Tataya
+- [ ] Taulu
+- [ ] Tembo
+- [ ] Tembwe
+- [ ] Temwani
+- [ ] Tentesha
+- [ ] Tepa
+- [ ] Thambo
+- [ ] Thambolani
+- [ ] Thawani
+- [ ] Thindwa
+- [ ] Tione
+- [ ] Tiyaonse
+- [ ] Towa
+- [ ] Towani
+- [ ] Towela
+- [ ] Tshipampa
+- [ ] Tsogolani
+- [ ] Tukuza
+- [ ] Twaambe
+- [ ] Twaambo
+- [ ] Twaange
+- [ ] Twambo
+- [ ] Tweenda
+- [ ] Tweende
+- [ ] Twiimbe
+- [ ] Twiindilila
 
 ## Zambian names beginning with the letter U
 
-Ulaya
-Ulemu
-Ungoni
-Urbano
+- [ ] Ulaya
+- [ ] Ulemu
+- [ ] Ungoni
+- [ ] Urbano
 
 ## Zambian names beginning with the letter V
 
-Viatowa
+- [ ] Viatowa
 
 ## Zambian names beginning with the letter W
 
-Wakumelo
-Wakunguma
-Wakunyambo
-Walubita
-Walusiku
-Wamukwamba
-Wamujima
-Wamulume
-Wamundila
-Wanchinga
-Wangongo
-Watae
-Wawanya
-Wazili
-Wezi
-Wina
-Winga
-Witola
-Womba
-Wonani
-Wongani
+- [ ] Wakumelo
+- [ ] Wakunguma
+- [ ] Wakunyambo
+- [ ] Walubita
+- [ ] Walusiku
+- [ ] Wamukwamba
+- [ ] Wamujima
+- [ ] Wamulume
+- [ ] Wamundila
+- [ ] Wanchinga
+- [ ] Wangongo
+- [ ] Watae
+- [ ] Wawanya
+- [ ] Wazili
+- [ ] Wezi
+- [ ] Wina
+- [ ] Winga
+- [ ] Witola
+- [ ] Womba
+- [ ] Wonani
+- [ ] Wongani
 
 ## Zambian names beginning with the letter Y
 
-Yamba
-Yambayamba
-Yangailo
-Yassa
-Yeletsani
-Yotamu
-Yowela
-Yuma
-Yuyi
+- [ ] Yamba
+- [ ] Yambayamba
+- [ ] Yangailo
+- [ ] Yassa
+- [ ] Yeletsani
+- [ ] Yotamu
+- [ ] Yowela
+- [ ] Yuma
+- [ ] Yuyi
 
 ## Zambian names beginning with the letter Z
 
-Zaza
-Zelipa
-Zgambo
-Ziba
-Zikonda
-Zimba
-Zingani
-Zinyama
-Ziwa
-Zulu
-Zuma
-Zuze
-Zwaambi
-Zyolezya
-Zyuumbwe
+- [ ] Zaza
+- [ ] Zelipa
+- [ ] Zgambo
+- [ ] Ziba
+- [ ] Zikonda
+- [ ] Zimba
+- [ ] Zingani
+- [ ] Zinyama
+- [ ] Ziwa
+- [ ] Zulu
+- [ ] Zuma
+- [ ] Zuze
+- [ ] Zwaambi
+- [ ] Zyolezya
+- [ ] Zyuumbwe
 
