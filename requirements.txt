@@ -7,3 +7,7 @@ tqdm==4.46.0
 black
 flake8==3.8.1
 pre-commit==2.4.0
+
+# testing
+pytest==5.4.2
+pytest-cov==2.8.1
