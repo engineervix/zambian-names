@@ -6,60 +6,66 @@ import pathlib
 from datetime import datetime
 from string import ascii_lowercase
 
-import requests
+import grequests  # asynchronous HTTP Requests
 from bs4 import BeautifulSoup
-from tqdm import tqdm
 
 TODAY = datetime.now()
 
 
-def fetch_names_that_begin_with(letter):
+def url_list():
+    """create a list of URLs from which to download the names"""
+    return [
+        f"https://thezambian.com/online/zambian-names-beginning-with-the-letter-{letter}/"
+        for letter in ascii_lowercase
+    ]
+
+
+def exception_handler(request, exception):
+    print("Request failed")
+
+
+def fetch_names():
     """
-    fetches names that begin with `letter` from the specified URL
+    fetches names from the url_List
     """
 
-    url = f"https://thezambian.com/online/zambian-names-beginning-with-the-letter-{letter}/"
+    names_links = [grequests.get(link) for link in url_list()]
+    resp = grequests.imap(names_links, exception_handler=exception_handler)
 
-    try:
-        webpage = requests.get(url)
-        webpage.raise_for_status()
-    except requests.exceptions.HTTPError as errh:
-        print("HTTP Error:", errh)
-    except requests.exceptions.ConnectionError as errc:
-        print("Error Connecting:", errc)
-    except requests.exceptions.Timeout as errt:
-        print("Timeout Error:", errt)
-    except requests.exceptions.RequestException as err:
-        # print ("Oops: An Unexpected Error Occurred", err)
-        raise SystemExit(err)
+    names_lists = []
 
-    soup = BeautifulSoup(webpage.text, "html.parser")
-    post = soup.find("section", {"class": "entry"})
+    for idx, r in enumerate(resp):
+        soup = BeautifulSoup(r.text, "html.parser")
+        post = soup.find("section", {"class": "entry"})
 
-    try:
-        names = [name.text for name in post.find_next("ol").find_all("li")]
-    except AttributeError:
-        print(f"there are no names that begin with {letter.upper()}")
-        names = []
+        try:
+            names = [name.text for name in post.find_next("ol").find_all("li")]
+        except AttributeError:
+            print(f"there are no names that begin with {ascii_lowercase[idx].upper()}")
+            names = []
 
-    return names
+        names_lists.append(names)
+
+    return names_lists
 
 
-def print_to_file(names, letter, filename):
+def print_to_file(names_lists, filename):
     """
-    print a list of `names` that begin with `letter` to file named `filename`
+    print a list of names grouped by letter to file named `filename`
     """
     with open(filename, "a") as output:
-        print(
-            f"## Zambian names beginning with the letter {letter.upper()}\n", file=output,
-        )
-        # GFM task-list syntax
-        output.write("\n".join(str(f"- [ ] {name}") for name in names))
-        print("\n", file=output)
+        for idx, _list in enumerate(names_lists):
+            if _list:  # some lists may be empty (Q, R and X at the time of writing this)
+                print(
+                    f"## Zambian names beginning with the letter {ascii_lowercase[idx].upper()}\n",
+                    file=output,
+                )
+                # GFM task-list syntax
+                output.write("\n".join(str(f"- [ ] {name}") for name in _list))
+                print("\n", file=output)
 
 
 def cmd(filename):
-    progress_bar = tqdm(ascii_lowercase)
     path = pathlib.Path(filename)
     if path.exists():
         timestamp = TODAY.strftime("%Y%m%d-%H%M%S")
@@ -67,12 +73,9 @@ def cmd(filename):
         new_file = f"{base}_{timestamp}{extension}"
     else:
         new_file = filename
-    for letter in progress_bar:
-        progress_bar.set_description(f"Fetching {letter.upper()} names")
-        names = fetch_names_that_begin_with(letter)
-        if names:
-            print_to_file(names, letter, new_file)
+    names_lists = fetch_names()
+    print_to_file(names_lists, new_file)
 
 
 if __name__ == "__main__":
-    cmd("zambian_names.md")
+    cmd("them_zambian_names.md")
