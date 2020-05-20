@@ -1,7 +1,6 @@
 # core
 beautifulsoup4==4.9.1
-requests==2.23.0
-tqdm==4.46.0
+grequests==0.6.0
 
 # dev
 black
