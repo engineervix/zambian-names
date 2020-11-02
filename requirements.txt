@@ -5,7 +5,7 @@ grequests==0.6.0
 # dev
 black
 flake8==3.8.4
-pre-commit==2.7.1
+pre-commit==2.8.2
 
 # testing
 pytest==6.1.1
