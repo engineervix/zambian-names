@@ -4,7 +4,7 @@ grequests==0.6.0
 
 # dev
 black
-flake8==3.8.4
+flake8==3.9.0
 pre-commit==2.9.3
 
 # testing
