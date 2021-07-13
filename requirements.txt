@@ -9,6 +9,7 @@ flake8==3.8.4
 invoke==1.6.0
 isort==5.9.2
 mypy==0.910
+flake8==3.9.2
 pre-commit==2.9.3
 
 # testing
