@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-20.04
 
     container:
-      image: python:3.8-buster
+      image: python:3.11-buster
 
     steps:
       # This Docker file changes sets USER to circleci instead of using the default user, so we need to update file permissions for this image to work on GH Actions.
