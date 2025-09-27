@@ -1,5 +1,5 @@
 # core
-beautifulsoup4==4.9.3
+beautifulsoup4==4.14.0
 grequests==0.6.0
 
 # dev
