@@ -2,6 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+[![CI/CD](https://github.com/engineervix/zambian-names/actions/workflows/main.yml/badge.svg)](https://github.com/engineervix/zambian-names/actions/workflows/main.yml)
 [![python3](https://img.shields.io/badge/python-3.12%20%7C%203.13-brightgreen.svg)](https://python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
