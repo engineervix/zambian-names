@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-[![python3](https://img.shields.io/badge/python-3.6%20%7C%203.7-brightgreen.svg)](https://python3statement.org/#sections50-why)
+[![python3](https://img.shields.io/badge/python-3.12%20%7C%203.13-brightgreen.svg)](https://python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## What is this about?
@@ -23,5 +23,26 @@ The first thing to do is fetch the names from `thezambian.com`! The python scrip
 ## Categorizing names by gender and first/last name
 
 TODO
+
+## Development
+
+- clone the repo
+- in your python 3.13 virtual environment, install the dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+- Install the required browsers
+
+```bash
+playwright install
+```
+
+- Run the script to fetch names
+
+```bash
+python zambian_names/fetch_names.py
+```
 
 ---
