@@ -15,10 +15,65 @@ on:
     paths-ignore: ["docs/**"]
 
 jobs:
-  # runs all of the steps inside the specified container rather than on the VM host.
-  # Because of this the network configuration changes from host based network to a container network.
+  ruff:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Create virtual environment
+        run: python -m venv .venv
+
+      - name: Install Dependencies
+        shell: bash
+        run: |
+          source .venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ruff
+        shell: bash
+        run: |
+          source .venv/bin/activate
+          ruff check . --output-format=github
+
+  black:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Create virtual environment
+        run: python -m venv .venv
+
+      - name: Install Dependencies
+        shell: bash
+        run: |
+          source .venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ruff
+        shell: bash
+        run: |
+          source .venv/bin/activate
+          black . --check
+
   test:
     runs-on: ubuntu-22.04
+    needs: [ruff, black]
 
     steps:
       - name: Checkout Code Repository
