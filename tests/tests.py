@@ -68,7 +68,7 @@ async def test_extract_names_from_page_with_mock_html():
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
-        await page.goto(f"file://{MOCK_HTML_PATH}")
+        await page.goto(MOCK_HTML_PATH.resolve().as_uri())
         names = await extract_names_from_page(page)
         await browser.close()
         assert names == ["Towela", "Twaambo", "Temwani"]
