@@ -20,9 +20,6 @@ jobs:
   test:
     runs-on: ubuntu-22.04
 
-    container:
-      image: python:3.13-slim
-
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
