@@ -1,0 +1,56 @@
+name: CI/CD
+
+# Enable Buildkit and let compose use it to speed up image building
+env:
+  DOCKER_BUILDKIT: 1
+  COMPOSE_DOCKER_CLI_BUILD: 1
+
+on:
+  pull_request:
+    branches: ["master", "main"]
+    paths-ignore: ["docs/**"]
+
+  push:
+    branches: ["master", "main"]
+    paths-ignore: ["docs/**"]
+
+jobs:
+  # runs all of the steps inside the specified container rather than on the VM host.
+  # Because of this the network configuration changes from host based network to a container network.
+  test:
+    runs-on: ubuntu-22.04
+
+    container:
+      image: python:3.13-slim
+
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install Dependencies
+        shell: bash
+        run: |
+          sudo apt update --yes --quiet
+          export DEBIAN_FRONTEND=noninteractive
+          export TZ=Africa/Lusaka
+          sudo sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen
+          sudo locale-gen
+          sudo ln -fs /usr/share/zoneinfo/Africa/Lusaka /etc/localtime
+          sudo dpkg-reconfigure tzdata
+          export LANG=en_US.UTF-8
+          export LANGUAGE=en_US:en
+          export LC_ALL=en_US.UTF-8
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Test with pytest
+        shell: bash
+        run: |
+          source ~/venv/bin/activate
+          pytest
