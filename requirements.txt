@@ -12,9 +12,8 @@ mypy==1.18.2
 pre-commit==4.3.0
 
 # testing
-faker==8.12.1
-pytest==6.2.5
-pytest-cov==2.12.1
-pytest-mock==3.6.1
-pytest-sugar==0.9.4
-requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
+faker==37.8.0
+pytest==8.4.2
+pytest-cov==7.0.0
+pytest-mock==3.15.1
+pytest-sugar==1.1.1
