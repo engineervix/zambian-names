@@ -1,28 +1,28 @@
 #!/usr/bin/env python3
 
-import os
 import glob
+import os
 import random
 from pathlib import Path
+from shutil import rmtree
 from string import ascii_lowercase
-from shutil import copy, rmtree
 
 import pytest
 from faker import Faker
 
 from zambian_names.fetch_names import (
     TODAY,
+    cmd,
     fetch_names,
     fetch_names_that_begin_with,
     print_to_file,
-    cmd,
 )
 
 fake = Faker()
 
 NAMES_LIST = []
 
-ALL_LETTERS = [char for char in ascii_lowercase]
+ALL_LETTERS = list(ascii_lowercase)
 EMPTY_LETTERS = ["q", "r", "x"]
 NON_EMPTY_LETTERS = [char for char in ALL_LETTERS if char not in EMPTY_LETTERS]
 
@@ -87,7 +87,7 @@ def test_empty_lists(zambian_names_list):
 def test_print_to_file(letter):
     """test printing to file"""
     NAMES_LIST.clear()
-    for x in range(26):
+    for _ in range(26):
         NAMES_LIST.append([fake.first_name() for num in list(range(random.randint(25, 88)))])
 
     print_to_file(NAMES_LIST, os.path.join(TEST_DIRECTORY, "zambian_names.md"))

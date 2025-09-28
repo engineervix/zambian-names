@@ -29,8 +29,7 @@ def alphabet_position(letter):
 def url_list():
     """create a list of URLs from which to download the names"""
     return [
-        f"https://thezambian.com/online/zambian-names-beginning-with-the-letter-{letter}/"
-        for letter in ascii_lowercase
+        f"https://thezambian.com/online/zambian-names-beginning-with-the-letter-{letter}/" for letter in ascii_lowercase
     ]
 
 
