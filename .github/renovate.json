@@ -1,5 +1,5 @@
 {
-  "extends": ["config:base"],
+  "extends": ["config:recommended"],
   "semanticCommits": "enabled",
   "pin": {
     "automerge": true,
@@ -9,34 +9,34 @@
     {
       "matchLanguages": ["python"],
       "labels": ["dependencies", "python"],
-      "updateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true,
+      "updateTypes": ["patch", "minor", "pin", "digest"],
+      "automerge": false,
       "semanticCommitType": "build"
     },
     {
       "matchManagers": ["pre-commit"],
-      "updateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true,
+      "updateTypes": ["patch", "minor", "pin", "digest"],
+      "automerge": false,
       "semanticCommitType": "ci"
     },
     {
       "matchDatasources": ["docker"],
       "updateTypes": ["patch", "pin", "digest"],
-      "automerge": true,
+      "automerge": false,
       "semanticCommitType": "ci"
     },
     {
       "matchManagers": ["github-actions"],
       "updateTypes": ["patch", "pin", "digest"],
-      "automerge": true,
+      "automerge": false,
       "semanticCommitType": "ci"
     },
     {
       "matchDepTypes": ["devDependencies"],
-      "automerge": true,
+      "automerge": false,
       "labels": ["dependencies"]
     }
   ],
   "timezone": "Africa/Lusaka",
-  "schedule": ["after 10pm every weekday", "every weekend"]
+  "schedule": ["at 18:00 on Tuesday and Wednesday"]
 }
