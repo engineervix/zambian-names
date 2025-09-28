@@ -6,15 +6,27 @@ repos:
     hooks:
       - id: check-added-large-files
         args: ["--maxkb=5000"]
-      - id: end-of-file-fixer
+      - id: check-ast
+      - id: fix-byte-order-marker
       - id: check-case-conflict
+      - id: check-docstring-first
+      - id: check-json
+      - id: check-toml
+      - id: check-yaml
+        args: ["--unsafe"]
+      - id: debug-statements
       - id: detect-private-key
+      - id: end-of-file-fixer
+        exclude: ^.+\.min\.(js|css)$
+      - id: mixed-line-ending
+      - id: trailing-whitespace
   - repo: https://github.com/psf/black
     rev: 25.9.0
     hooks:
       - id: black
         exclude: (.*)/migrations
-  - repo: https://github.com/PyCQA/flake8
-    rev: 7.3.0
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.13.2
     hooks:
-      - id: flake8
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
