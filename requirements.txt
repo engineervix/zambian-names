@@ -5,11 +5,11 @@ grequests==0.7.0
 # dev
 black==25.9.0
 commitizen==4.9.1
-flake8==7.3.0
 invoke==2.2.0
 isort==6.0.1
 mypy==1.18.2
 pre-commit==4.3.0
+ruff==0.13.2
 
 # testing
 faker==37.8.0
