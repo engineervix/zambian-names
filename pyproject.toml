@@ -1,6 +1,6 @@
 [tool.black]
-line-length = 100
-target-version = ['py37']
+line-length = 120
+target-version = ['py310', 'py311', 'py312', 'py313']
 include = '\.pyi?$'
 exclude = '''
 
@@ -14,10 +14,51 @@ exclude = '''
     | \.venv
     | _build
     | buck-out
+    | node_modules
     | build
-    | (.*)/migrations
     | dist
-    | \{\{cookiecutter\.project_slug\}\}
   )/
 )
 '''
+
+
+[tool.ruff]
+exclude = [
+  ".git",
+  "__pycache__",
+  "node_modules",
+  "public",
+  "venv",
+  ".venv",
+]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+ignore = ["E203", "E266", "E501"]
+select = ["B", "C", "E", "F", "W", "B9"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["zambian_names"]
+section-order = ["future", "standard-library", "third-party", "first-party", "local-folder"]
+
+[tool.ruff.lint.pycodestyle]
+max-doc-length = 120
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10
+
+[tool.coverage.run]
+omit = [
+    "venv/*",
+]
+branch = true   # Measure branch coverage
+
+[tool.coverage.report]
+skip_covered = true
+show_missing = true
+
+[tool.pytest.ini_options]
+addopts = "--cov=. --cov-report html --cov-report xml --cov-report term-missing:skip-covered -s -vv"
+testpaths = ["tests"]
+python_files = ["tests.py", "test_*.py", "*_tests.py"]
