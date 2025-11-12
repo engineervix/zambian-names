@@ -12,7 +12,7 @@ pre-commit==4.3.0
 ruff==0.13.3
 
 # testing
-faker==37.8.0
+faker==38.0.0
 pytest==8.4.2
 pytest-asyncio==1.2.0
 pytest-cov==7.0.0
