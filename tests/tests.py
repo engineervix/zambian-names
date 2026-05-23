@@ -8,7 +8,7 @@ import pytest
 from faker import Faker
 from playwright.async_api import async_playwright
 
-from zambian_names.fetch_names import (
+from utils.fetch_names import (
     TODAY,
     extract_names_from_page,
     fetch_names,
@@ -141,7 +141,7 @@ async def test_scrape_url_general_exception(mocker):
     """Tests that scrape_url handles generic exceptions gracefully."""
     semaphore = asyncio.Semaphore(1)
     mocker.patch(
-        "zambian_names.fetch_names.extract_names_from_page",
+        "utils.fetch_names.extract_names_from_page",
         side_effect=Exception("Test error"),
     )
     async with async_playwright() as p:
@@ -163,7 +163,7 @@ async def test_fetch_names_orchestration(mocker):
     async def mock_scrape_effect(browser, url, letter, semaphore, test_timeout=None):
         return (letter, [f"fake_name_for_{letter}"])
 
-    mock_scrape = mocker.patch("zambian_names.fetch_names.scrape_url", side_effect=mock_scrape_effect)
+    mock_scrape = mocker.patch("utils.fetch_names.scrape_url", side_effect=mock_scrape_effect)
 
     result_lists = await fetch_names()
 
@@ -193,7 +193,7 @@ def test_print_to_file(temp_test_dir, zambian_names_list):
 @pytest.mark.asyncio
 async def test_main_no_names_found(temp_test_dir, mocker, capsys):
     output_file = Path.cwd() / "zambian_names.md"
-    mocker.patch("zambian_names.fetch_names.fetch_names", return_value=[[] for _ in range(26)])
+    mocker.patch("utils.fetch_names.fetch_names", return_value=[[] for _ in range(26)])
     await main(str(output_file))
     captured = capsys.readouterr()
     assert "No names were scraped" in captured.out
@@ -204,7 +204,7 @@ async def test_main_no_names_found(temp_test_dir, mocker, capsys):
 async def test_main_with_existing_file(temp_test_dir, mocker, zambian_names_list):
     existing_file = Path.cwd() / "zambian_names.md"
     existing_file.touch()
-    mocker.patch("zambian_names.fetch_names.fetch_names", return_value=zambian_names_list)
+    mocker.patch("utils.fetch_names.fetch_names", return_value=zambian_names_list)
     await main(str(existing_file))
     assert len(list(Path.cwd().iterdir())) == 2
     timestamped_files = list(Path.cwd().glob(f"*{TODAY.strftime('%Y%m%d')}*"))
@@ -214,7 +214,7 @@ async def test_main_with_existing_file(temp_test_dir, mocker, zambian_names_list
 @pytest.mark.asyncio
 async def test_main_without_existing_file(temp_test_dir, mocker, zambian_names_list):
     output_file = Path.cwd() / "zambian_names.md"
-    mocker.patch("zambian_names.fetch_names.fetch_names", return_value=zambian_names_list)
+    mocker.patch("utils.fetch_names.fetch_names", return_value=zambian_names_list)
     await main(str(output_file))
     assert len(list(Path.cwd().iterdir())) == 1
     assert output_file.exists()
@@ -226,7 +226,7 @@ async def test_main_function_no_names_scraped(mocker, temp_test_dir, capsys):
     Tests that the main function handles the case where no names are scraped
     and doesn't create an output file.
     """
-    mocker.patch("zambian_names.fetch_names.fetch_names", return_value=[[] for _ in range(26)])
+    mocker.patch("utils.fetch_names.fetch_names", return_value=[[] for _ in range(26)])
     output_file = "no_names.md"
 
     await main(output_file)
@@ -243,7 +243,7 @@ async def test_main_function_file_exists(zambian_names_list, temp_test_dir, caps
     target file already exists.
     """
     # Mock fetch_names to return our test data
-    mocker.patch("zambian_names.fetch_names.fetch_names", return_value=zambian_names_list)
+    mocker.patch("utils.fetch_names.fetch_names", return_value=zambian_names_list)
 
     original_filename = "existing_names.md"
     Path(original_filename).write_text("This file already exists.")

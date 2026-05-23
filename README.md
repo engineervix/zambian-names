@@ -3,8 +3,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 [![CI/CD](https://github.com/engineervix/zambian-names/actions/workflows/main.yml/badge.svg)](https://github.com/engineervix/zambian-names/actions/workflows/main.yml)
-[![python3](https://img.shields.io/badge/python-3.12%20%7C%203.13-brightgreen.svg)](https://python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## What is this about?
 
@@ -43,7 +45,7 @@ playwright install
 - Run the script to fetch names
 
 ```bash
-python zambian_names/fetch_names.py
+python utils/fetch_names.py
 ```
 
 ---
