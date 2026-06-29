@@ -1,6 +1,6 @@
 # core
 beautifulsoup4==4.14.3
-playwright==1.60.0
+playwright==1.61.0
 
 # dev
 black==26.5.1
